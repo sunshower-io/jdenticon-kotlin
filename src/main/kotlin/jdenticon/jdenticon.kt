@@ -1,5 +1,6 @@
 package jdenticon
 
+
 class Jdenticon {
 
     companion object {
